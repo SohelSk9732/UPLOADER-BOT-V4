@@ -30,11 +30,9 @@ I Am Telegram URL Uploader Bot.
  
 """
     ABOUT_TEXT = """
-**📛 My Name** : [Uploader Bot V4 🚀](http://t.me/anumitultrabots)
+**📛 My Name** : [URL Uploader X⚡️](https://t.me/Archie_Bots)
 
-**❤️ Version** : [2.3 🔥](http://t.me/anumitultrabots)
-
-**🤖 Source** : [Click](https://github.com/HelloUltra44/UPLOADER-BOT-V4)
+**❤️ Version** : [2.3 🔥](https://t.me/Archie_Bots)
 
 **🧿 Language** : [Python 3.10.9](https://www.python.org/)
 
