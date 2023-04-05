@@ -38,7 +38,7 @@ I Am Telegram URL Uploader Bot.
 
 **📢 Framework** : [Pyrogram 1.4.16](https://docs.pyrogram.org/)
 
-**👨‍💻 Developer** : [Amit](https://t.me/ajak4405)
+**🌐 Server** : [Heroku](https://heroku.com/)
 
 """
 
