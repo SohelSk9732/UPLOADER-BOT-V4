@@ -5,11 +5,13 @@ class Translation(object):
     START_TEXT = """
 🤗 Hello {}
 
-I Am Telegram URL Uploader Bot.
+I'm **URL Uploader X bot.** Just send me any Direct download link and I'll upload file remotely to Telegram.
 
-**__Send me a direct link and I will upload it to telegram as a file/video.__**
+**Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ**
 
-**Use Help Button To Know How To Use Me**
+𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸
+
+**🔞 Pʀᴏɴ ᴄᴏɴᴛᴇɴᴛꜱ ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ ʏᴏᴜ.**
 """
     HELP_TEXT = """
 𒊹︎︎︎ How To Upload File Or Media 
